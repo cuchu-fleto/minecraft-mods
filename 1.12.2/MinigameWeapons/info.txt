@@ -1,0 +1,11 @@
+(my first) Minecraft 1.12.2 mod that adds
+
+ -Boop Ore (Naturally Occurring)
+ -Boop Block
+ -Essence of Boop
+ -Boop Stick
+ -Boop Sword
+
+into the game.
+
+-fleto 2018
